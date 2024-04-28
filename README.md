@@ -42,7 +42,7 @@
             margin-bottom: 10px;
         }
         li a {
-            color: white;
+            color: black;
             text-decoration: none;
         }
         li a:hover {
