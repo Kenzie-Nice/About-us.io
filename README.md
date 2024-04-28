@@ -12,6 +12,15 @@
             background-size: cover;
             background-position: center;
         }
+             .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            position: relative;
+            overflow: hidden;
         body {
             font-size: 420px;
         }
