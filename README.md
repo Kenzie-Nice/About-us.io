@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +11,7 @@
             background-image: url('2690293634_8557a484b1_b.jpg');
             background-size: cover;
             background-position: center;
-            color: white; /* Text color */
+            color: black;
         }
         .container {
             max-width: 800px;
